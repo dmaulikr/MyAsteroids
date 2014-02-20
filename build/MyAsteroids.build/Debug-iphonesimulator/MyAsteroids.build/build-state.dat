@@ -1,0 +1,663 @@
+TMyAsteroids
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/Info.plist" MyAsteroids/MyAsteroids-Info.plist
+cProcessPCH /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch.pth MyAsteroids/MyAsteroids-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsAppDelegate.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Finger.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/Finger.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/main.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsViewController.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Sprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/Sprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AtlasSprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AtlasSprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/VectorSprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/VectorSprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/TextSprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/TextSprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsModel.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsModel.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsView.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/GameController.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/GameController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AudioController.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AudioController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/LineSprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/LineSprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AnnouncementLabel.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AnnouncementLabel.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids" normal i386
+cGenerateDSYMFile "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app.dSYM" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids"
+cCopyStringsFile "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/InfoPlist.strings" MyAsteroids/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MainWindow.xib"
+cCompileXIB "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MyAsteroidsViewController.xib"
+cCpResource resources/sounds/alert.aif build/Debug-iphonesimulator/MyAsteroids.app/alert.aif
+cCpResource resources/sounds/explode1.aif build/Debug-iphonesimulator/MyAsteroids.app/explode1.aif
+cCpResource resources/sounds/explode2.aif build/Debug-iphonesimulator/MyAsteroids.app/explode2.aif
+cCpResource resources/sounds/explode3.aif build/Debug-iphonesimulator/MyAsteroids.app/explode3.aif
+cCpResource resources/sounds/thrust.aif build/Debug-iphonesimulator/MyAsteroids.app/thrust.aif
+cCpResource resources/images/buttons.png build/Debug-iphonesimulator/MyAsteroids.app/buttons.png
+cTouch "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c0000000050A69C330000000000000110
+t1353096243
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000508AE21000000000003D2B80
+t1351279120
+s4008832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000508AE2110000000000228FD0
+t1351279121
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000508AE21300000000003DCEF0
+t1351279123
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000508AE21D0000000000AB3D60
+t1351279133
+s11222368
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/AnnouncementLabel.m
+c000000004FB2AB26000000000000027F
+t1337109286
+s639
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/AtlasSprite.m
+c000000004F66A00D0000000000000928
+t1332125709
+s2344
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/AudioController.m
+c000000004F66B0F400000000000007C2
+t1332130036
+s1986
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/Finger.m
+c000000004FAFC8A30000000000000654
+t1336920227
+s1620
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/GameController.m
+c000000004FB68CD100000000000028DC
+t1337363665
+s10460
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/LineSprite.m
+c000000004FAFD4F00000000000000706
+t1336923376
+s1798
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroids-Prefix.pch
+c000000004F63363A0000000000000148
+t1331902010
+s328
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsAppDelegate.m
+c000000004F63572000000000000009FB
+t1331910432
+s2555
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsViewController.m
+c000000004FB2B51A00000000000010AE
+t1337111834
+s4270
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/InfoPlist.strings
+c000000004F63363A000000000000002D
+t1331902010
+s45
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MainWindow.xib
+c000000004F63363A0000000000004E49
+t1331902010
+s20041
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MyAsteroidsViewController.xib
+c000000004F660B7A00000000000C3FEA
+t1332087674
+s802794
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/main.m
+c000000004F63363A0000000000000166
+t1331902010
+s358
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsModel.m
+c000000004FB690420000000000002625
+t1337364546
+s9765
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsView.m
+c000000004D274C71000000000000055F
+t1294421105
+s1375
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/Sprite.m
+c000000004FBC4DD50000000000001848
+t1337740757
+s6216
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/TextSprite.m
+c000000004F644449000000000000090C
+t1331971145
+s2316
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/VectorSprite.m
+c000000004F6A99F00000000000000621
+t1332386288
+s1569
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app.dSYM
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/Info.plist
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/PkgInfo
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/alert.aif
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/buttons.png
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/MyAsteroidsViewController.nib
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/explode1.aif
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/explode2.aif
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/explode3.aif
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/thrust.aif
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AnnouncementLabel.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AtlasSprite.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AudioController.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Finger.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/GameController.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/LineSprite.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroids.LinkFileList
+c0000000050DB32640000000000000819
+t1356542564
+s2073
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsAppDelegate.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsModel.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsView.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsViewController.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Sprite.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/TextSprite.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/VectorSprite.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/images/buttons.png
+c000000004B96B3C30000000000003394
+t1268167619
+s13204
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/alert.aif
+c000000004B44C24C000000000000AFC0
+t1262797388
+s44992
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/explode1.aif
+c000000004B992E1A0000000000004AC6
+t1268330010
+s19142
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/explode2.aif
+c000000004B992E210000000000005580
+t1268330017
+s21888
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/explode3.aif
+c000000004B992EF00000000000004AC6
+t1268330224
+s19142
+
+N/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/thrust.aif
+c000000004B992E3500000000000007CC
+t1268330037
+s1996
+
+N/var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch.pth
+t2
+s0
+
+NMyAsteroids/MyAsteroids-Info.plist
+c0000000050DB321C00000000000004A1
+t1356542492
+s1185
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AnnouncementLabel.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AtlasSprite.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AudioController.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/Finger.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/GameController.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/LineSprite.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsAppDelegate.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsViewController.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/main.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsModel.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsView.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/Sprite.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/TextSprite.m"
+r0
+
+CBuild AST from "/Users/zhangyan/Desktop/IOS project/MyAsteroids/VectorSprite.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0801b1e3698bb641^43c904e4698bb641^---0#1#0#--18"Check dependencies36"78CCD50B-5EE7-4766-A9A6-0365DB9CC405-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AnnouncementLabel.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AnnouncementLabel.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235370.140153
+e378235370.566140
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AnnouncementLabel.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/AnnouncementLabel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/AnnouncementLabel.maa0b24ea698bb641^568291ea698bb641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/AnnouncementLabel.m0000000000000000^3756"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AnnouncementLabel.o AnnouncementLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AnnouncementLabel.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AnnouncementLabel.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AnnouncementLabel.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AnnouncementLabel.o"36"656E0D3A-D62D-4DCB-B90C-5242FC0FE780-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AtlasSprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AtlasSprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235368.761254
+e378235368.878160
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AtlasSprite.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/AtlasSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/AtlasSprite.md09ac3e8698bb641^5fcee0e8698bb641^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/AtlasSprite.m0000000000000000^3720"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AtlasSprite.o AtlasSprite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AtlasSprite.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AtlasSprite.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AtlasSprite.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AtlasSprite.o"36"FA0E6747-9270-4800-BC76-713D871878A1-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AudioController.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AudioController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235369.728828
+e378235370.045432
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AudioController.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/AudioController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/AudioController.m51c0bae9698bb641^cdae0bea698bb641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/AudioController.m0000000000000000^3744"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AudioController.o AudioController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AudioController.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AudioController.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/AudioController.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/AudioController.o"36"5E466056-A407-4966-977D-5075A3283A46-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Finger.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/Finger.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235367.284662
+e378235368.179715
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Finger.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/Finger.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/Finger.mb51749e7698bb641^15012ee8698bb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/Finger.m0000000000000000^3690"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Finger.o Finger.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Finger.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Finger.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/Finger.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Finger.o"36"09165C76-6656-45AD-98F8-6295A29347BE-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/GameController.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/GameController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235369.698640
+e378235370.992084
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/GameController.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/GameController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/GameController.m9353b3e9698bb641^8506feea698bb641^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/GameController.m0000000000000000^3738"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/GameController.o GameController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/GameController.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/GameController.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/GameController.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/GameController.o"36"15243865-EE0C-426D-9F8A-68C24A79A01E-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/LineSprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/LineSprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235370.046688
+e378235370.138852
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/LineSprite.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/LineSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/LineSprite.m101f0cea698bb641^4fcb23ea698bb641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/LineSprite.m0000000000000000^3714"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/LineSprite.o LineSprite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/LineSprite.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/LineSprite.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/LineSprite.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/LineSprite.o"36"5751E06E-1511-4BFA-8896-53B952B111C8-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsAppDelegate.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsAppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235367.283739
+e378235368.225271
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsAppDelegate.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsAppDelegate.m48df48e7698bb641^c5aa39e8698bb641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroids/MyAsteroidsAppDelegate.m0000000000000000^3810"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsAppDelegate.o MyAsteroids/MyAsteroidsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsAppDelegate.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsAppDelegate.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsAppDelegate.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsAppDelegate.o"36"961936C0-87CD-4FE0-B57D-852D310B44CE-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsModel.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsModel.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235368.994691
+e378235369.727549
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsModel.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsModel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsModel.m07d1fee8698bb641^6d55bae9698bb641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroidsModel.m0000000000000000^3750"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsModel.o MyAsteroidsModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsModel.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsModel.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsModel.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsModel.o"36"BEBF3BE0-EA79-4EBA-BEB4-6ABF7809ADC1-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsView.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsView.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235369.351117
+e378235369.697381
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsView.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsView.m90495ae9698bb641^029cb2e9698bb641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroidsView.m0000000000000000^3744"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsView.o MyAsteroidsView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsView.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsView.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroidsView.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsView.o"36"4E47628E-4A1E-4BEE-AE88-CD9F1E2F8C08-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsViewController.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235368.226593
+e378235368.993382
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsViewController.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsViewController.m88303ae8698bb641^c85ffee8698bb641^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroids/MyAsteroidsViewController.m0000000000000000^3828"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsViewController.o MyAsteroids/MyAsteroidsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsViewController.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsViewController.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroidsViewController.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroidsViewController.o"36"35A10802-1C23-46BC-B505-717CCFB8386F-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Sprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/Sprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235368.241069
+e378235368.759948
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Sprite.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/Sprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/Sprite.m6de13de8698bb641^3ca2c2e8698bb641^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/Sprite.m0000000000000000^3690"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Sprite.o Sprite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Sprite.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Sprite.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/Sprite.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/Sprite.o"36"5FDFA97A-E8C5-4399-9BA6-D18A98CE97D4-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/TextSprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/TextSprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235368.974727
+e378235369.346452
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/TextSprite.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/TextSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/TextSprite.m95b5f9e8698bb641^52b658e9698bb641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/TextSprite.m0000000000000000^3714"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/TextSprite.o TextSprite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/TextSprite.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/TextSprite.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/TextSprite.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/TextSprite.o"36"61B4C8B3-2BC4-4667-BC4D-B12F976F14D1-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/VectorSprite.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/VectorSprite.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235368.879482
+e378235368.973391
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/VectorSprite.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/VectorSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/VectorSprite.m9351e1e8698bb641^5f42f9e8698bb641^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/VectorSprite.m0000000000000000^3726"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/VectorSprite.o VectorSprite.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/VectorSprite.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/VectorSprite.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/VectorSprite.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/VectorSprite.o"36"E77634B1-4526-4BD5-91FA-EE8CD6095C71-
+
+CCompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/main.o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235368.181038
+e378235368.239711
+r1
+xCompileC
+xbuild/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/main.o
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/main.m7e8b2ee8698bb641^fb5c3de8698bb641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroids/main.m0000000000000000^3702"CompileC build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/main.o MyAsteroids/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -include /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch -MMD -MT dependencies -MF "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/main.dia" -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/main.m" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/main.o"36"1038664C-C8D8-457A-A54B-21805E2131BE-
+
+CCompileXIB "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MainWindow.xib"
+s378235372.229079
+e378235382.449367
+r1
+xCompileXIB
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compiling /Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MainWindow.xibb6f63aec698bb641^b21273f6698bb641^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroids/en.lproj/MainWindow.xib0000000000000000^947"CompileXIB MyAsteroids/en.lproj/MainWindow.xib    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/MainWindow.nib" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MainWindow.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"83C787C9-3B12-4414-AF69-CEA02ABAD3EA-
+
+CCompileXIB "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MyAsteroidsViewController.xib"
+s378235372.237167
+e378235382.409374
+r1
+xCompileXIB
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MyAsteroidsViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compiling /Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MyAsteroidsViewController.xib9b383dec698bb641^8e0569f6698bb641^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroids/en.lproj/MyAsteroidsViewController.xib0000000000000000^992"CompileXIB MyAsteroids/en.lproj/MyAsteroidsViewController.xib    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/MyAsteroidsViewController.nib" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/en.lproj/MyAsteroidsViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"2D32CFA1-7D1F-421B-9649-328A7410A1C2-
+
+CCopyStringsFile "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/InfoPlist.strings" MyAsteroids/en.lproj/InfoPlist.strings
+s378235372.228481
+e378235372.235908
+r1
+xCopyStringsFile
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/InfoPlist.strings
+xMyAsteroids/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy MyAsteroids/en.lproj/InfoPlist.stringsb83b3bec698bb641^3b723cec698bb641^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroids/en.lproj/InfoPlist.strings0000000000000000^613"CopyStringsFile build/Debug-iphonesimulator/MyAsteroids.app/en.lproj/InfoPlist.strings MyAsteroids/en.lproj/InfoPlist.strings    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/en.lproj" -- MyAsteroids/en.lproj/InfoPlist.strings36"BFA6883B-8B4B-40FA-822C-ADE0FBF3A58A-
+
+CCpResource resources/images/buttons.png build/Debug-iphonesimulator/MyAsteroids.app/buttons.png
+s378235382.448343
+e378235382.451337
+r1
+xCpResource
+xresources/images/buttons.png
+xbuild/Debug-iphonesimulator/MyAsteroids.app/buttons.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Debug-iphonesimulator/MyAsteroids.app/buttons.png15e172f6698bb641^749873f6698bb641^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/buttons.png000000000080d041^633"CpResource resources/images/buttons.png build/Debug-iphonesimulator/MyAsteroids.app/buttons.png    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/images/buttons.png" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"36"64A041B8-CB0F-462D-9AC0-1D0D124007F4-
+
+CCpResource resources/sounds/alert.aif build/Debug-iphonesimulator/MyAsteroids.app/alert.aif
+s378235382.410676
+e378235382.414880
+r1
+xCpResource
+xresources/sounds/alert.aif
+xbuild/Debug-iphonesimulator/MyAsteroids.app/alert.aif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Copy build/Debug-iphonesimulator/MyAsteroids.app/alert.aif863d69f6698bb641^494a6af6698bb641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/alert.aif000000000080d041^627"CpResource resources/sounds/alert.aif build/Debug-iphonesimulator/MyAsteroids.app/alert.aif    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/alert.aif" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"36"0D8C52F2-E119-4AB0-A34B-863E948842B2-
+
+CCpResource resources/sounds/explode1.aif build/Debug-iphonesimulator/MyAsteroids.app/explode1.aif
+s378235382.416129
+e378235382.419243
+r1
+xCpResource
+xresources/sounds/explode1.aif
+xbuild/Debug-iphonesimulator/MyAsteroids.app/explode1.aif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/MyAsteroids.app/explode1.aifb69d6af6698bb641^0b5f6bf6698bb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/explode1.aif000000000080d041^636"CpResource resources/sounds/explode1.aif build/Debug-iphonesimulator/MyAsteroids.app/explode1.aif    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/explode1.aif" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"36"7CF5B2AD-C646-47A9-A907-C522367DA145-
+
+CCpResource resources/sounds/explode2.aif build/Debug-iphonesimulator/MyAsteroids.app/explode2.aif
+s378235382.420522
+e378235382.425335
+r1
+xCpResource
+xresources/sounds/explode2.aif
+xbuild/Debug-iphonesimulator/MyAsteroids.app/explode2.aif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/MyAsteroids.app/explode2.aiff9bb6bf6698bb641^5af26cf6698bb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/explode2.aif000000000080d041^636"CpResource resources/sounds/explode2.aif build/Debug-iphonesimulator/MyAsteroids.app/explode2.aif    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/explode2.aif" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"36"60392099-B4EC-4B42-852D-FB084E613298-
+
+CCpResource resources/sounds/explode3.aif build/Debug-iphonesimulator/MyAsteroids.app/explode3.aif
+s378235382.426643
+e378235382.433926
+r1
+xCpResource
+xresources/sounds/explode3.aif
+xbuild/Debug-iphonesimulator/MyAsteroids.app/explode3.aif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Copy build/Debug-iphonesimulator/MyAsteroids.app/explode3.aifce4f6df6698bb641^6c266ff6698bb641^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/explode3.aif000000000080d041^636"CpResource resources/sounds/explode3.aif build/Debug-iphonesimulator/MyAsteroids.app/explode3.aif    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/explode3.aif" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"36"EC7C2037-E3D4-41B8-9F1C-A6E72A9D485D-
+
+CCpResource resources/sounds/thrust.aif build/Debug-iphonesimulator/MyAsteroids.app/thrust.aif
+s378235382.435326
+e378235382.447086
+r1
+xCpResource
+xresources/sounds/thrust.aif
+xbuild/Debug-iphonesimulator/MyAsteroids.app/thrust.aif
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Debug-iphonesimulator/MyAsteroids.app/thrust.aifce8b6ff6698bb641^448572f6698bb641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/thrust.aif000000000080d041^630"CpResource resources/sounds/thrust.aif build/Debug-iphonesimulator/MyAsteroids.app/thrust.aif    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/zhangyan/Desktop/IOS project/MyAsteroids/resources/sounds/thrust.aif" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"36"82FA0388-A280-4F64-8DD5-886D1DEF1D19-
+
+CGenerateDSYMFile "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app.dSYM" "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids"
+s378235372.065531
+e378235372.218676
+r1
+xGenerateDSYMFile
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app.dSYM
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Generating /Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app.dSYM0de110ec698bb641^d80c38ec698bb641^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app.dSYM000000000080d041^682"GenerateDSYMFile build/Debug-iphonesimulator/MyAsteroids.app.dSYM build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids" -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app.dSYM"36"4AD83838-3AA5-4F51-8149-D364C7BEB8E7-
+
+CLd "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids" normal i386
+s378235370.998370
+e378235372.057573
+r1
+xLd
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroidsb3b4ffea698bb641^f0be0eec698bb641^---0#0#0#--1243"Ld build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids normal i386    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk "-L/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" -filelist "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/Objects-normal/i386/MyAsteroids.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AudioToolbox -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/MyAsteroids"36"E6FD4762-DAF1-4675-932F-81A53F9836A2-
+
+CProcessInfoPlistFile "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/Info.plist" MyAsteroids/MyAsteroids-Info.plist
+s378235364.028884
+e378235364.033220
+r1
+xProcessInfoPlistFile
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/Info.plist
+xMyAsteroids/MyAsteroids-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process MyAsteroids/MyAsteroids-Info.plist3c8607e4698bb641^07600be4698bb641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroids/MyAsteroids-Info.plist0000000000000000^711"ProcessInfoPlistFile build/Debug-iphonesimulator/MyAsteroids.app/Info.plist MyAsteroids/MyAsteroids-Info.plist    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MyAsteroids/MyAsteroids-Info.plist -genpkginfo "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app/Info.plist"36"1CF1D64B-F82E-49F8-94A9-9C3CB9BDA07E-
+
+CProcessPCH /Users/zhangyan/Library/Developer/Xcode/DerivedData/MyAsteroids-epqxedwybpoquxgqznknjhljwuxc/Index/PrecompiledHeaders/MyAsteroids-Prefix-chkraxjjqyzqayczvzfornnhncfn_ast/MyAsteroids-Prefix.pch.pth MyAsteroids/MyAsteroids-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch.pth MyAsteroids/MyAsteroids-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s378235364.045890
+e378235367.276734
+r1
+xProcessPCH
+x/var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch.pth
+xMyAsteroids/MyAsteroids-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile MyAsteroids/MyAsteroids-Prefix.pch89f00be4698bb641^9e2647e7698bb641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/zhangyan/Desktop/IOS%20project/MyAsteroids/MyAsteroids/MyAsteroids-Prefix.pch0000000000000000^3727"ProcessPCH /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch.pth MyAsteroids/MyAsteroids-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.0 -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-generated-files.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-own-target-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-all-target-headers.hmap" -iquote "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/MyAsteroids-project-headers.hmap" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources/i386" "-I/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/MyAsteroids.build/Debug-iphonesimulator/MyAsteroids.build/DerivedSources" "-F/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator" --serialize-diagnostics /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch.dia -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/MyAsteroids/MyAsteroids-Prefix.pch" -o /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/nd/xq7zn94d3mn7gx_j88b1119c0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/MyAsteroids-Prefix-bruszrfmsymtcyeblwscujsjetbq/MyAsteroids-Prefix.pch.d36"3C4743E7-7C6D-4976-8719-C7E0F118B723-
+
+CTouch "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"
+s378235382.459555
+e378235382.475595
+r1
+xTouch
+x/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app11c475f6698bb641^45d779f6698bb641^---0#0#0#--418"Touch build/Debug-iphonesimulator/MyAsteroids.app    cd "/Users/zhangyan/Desktop/IOS project/MyAsteroids"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/zhangyan/Desktop/IOS project/MyAsteroids/build/Debug-iphonesimulator/MyAsteroids.app"36"0D3C71E2-0054-426A-9FDA-A491A47A7FD1-
+
